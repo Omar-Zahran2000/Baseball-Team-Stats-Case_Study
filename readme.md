@@ -41,7 +41,7 @@ This Excel project analyzes historical Major League Baseball (MLB) team performa
 - Highlights shifts in league dominance over the 20-year period.
 - Certain years show a clear lead by one league, while others are closely contested.
 
-![League vs League Performance](images/League%20vs%20League%20Performance.png)
+![League vs League Performance](images/League%20vs%20League%20Performance.JPG)
 
 ---
 
@@ -50,7 +50,7 @@ This Excel project analyzes historical Major League Baseball (MLB) team performa
 - Clearly shows historically dominant postseason teams.
 - Highlights franchises with consistent playoff appearances and championships.
 
-![Postseason Success Tracker](images/Postseason%20Success%20Tracker.png)
+![Postseason Success Tracker](images/Postseason%20Success%20Tracker.JPG)
 
 ---
 
@@ -59,7 +59,7 @@ This Excel project analyzes historical Major League Baseball (MLB) team performa
 - Captures fluctuations in home run production across eras.
 - Reveals periods where one league consistently outperformed the other in power hitting.
 
-![Power Hitting Trends By League](images/Power%20Hitting%20Trends%20By%20League.png)
+![Power Hitting Trends By League](images/Power%20Hitting%20Trends%20By%20League.JPG)
 
 ---
 
@@ -68,7 +68,7 @@ This Excel project analyzes historical Major League Baseball (MLB) team performa
 - Provides a side-by-side view to see if offensive performance trends align with team success.
 - Some correlation can be seen in certain years, though pitching and other factors also impact wins.
 
-![Sum of Win %, Sum.AVG by Year](images/Sum%20of%20Win%20%25%2C%20Sum.AVG%20by%20Year.png)
+![Sum of Win %, Sum.AVG by Year](images/Sum%20of%20Win%20%25%2C%20Sum.AVG%20by%20Year.JPG)
 
 ---
 
